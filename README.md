@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Salut 👋 Bienvenue sur mon Github </h1>  
+<h4 align="center">Toujours en quête d'apprentissage et de connaissances, je débute la programmation et je suis à la recherche d'un contrat de professionnalisation.</h4>  
 
-<!--
-**VJoss/VJoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Thanks - readme-generator](https://img.shields.io/badge/Thanks-readme--generator-2ea44f)](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+##  Qui suis-je
+
+- 😊 Je m'appelle JOSSUA VERDELET. Je suis à la recherche  
+
+- 🖥️ Issu d'un cursus vente, je possède un excellent relationnel client, une bonne communication et un sens du travail en équipe.
+
+- 🧠 J'ai par nature une sensibilité artistique, l'aspet visuel des différents site internet, a crée pour moi un réel interet de curiosité envers le développement.
+
+- 🌱 J'apprend actuellement le JavaScript natif
+
+-  📧 Adresse mail : verdelet.jossua@gmail.com
+  
+
+
+  
