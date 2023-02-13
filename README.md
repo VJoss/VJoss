@@ -7,7 +7,7 @@
 
 ##  Qui suis-je
 
-- 😊 Je m'appelle JOSSUA VERDELET. Je suis à la recherche  
+- 😊 Je m'appelle JOSSUA VERDELET. 
 
 - 🖥️ Issu d'un cursus vente, je possède un excellent relationnel client, une bonne communication et un sens du travail en équipe.
 
