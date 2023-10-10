@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋 Bienvenue sur mon Github </h1>  
-<h4 align="center">Toujours en quête d'apprentissage et de connaissances, je débute la programmation et je suis à la recherche d'un contrat de professionnalisation.</h4>  
+<h4 align="center">Toujours en quête d'apprentissage et de connaissances, je débuté la programmation en autodidacte, actuellement en formation Concepteur Developpeur d'Application</h4>  
 
 
 
@@ -13,7 +13,7 @@
 
 - 🧠 J'ai par nature une sensibilité artistique, l'aspet visuel des différents site internet, a crée pour moi un réel interet de curiosité envers le développement.
 
-- 🌱 J'apprend actuellement le JavaScript natif
+- 🌱 J'apprend actuellement le JavaScript natif/le PHP et MySQL
 
 -  📧 Adresse mail : verdelet.jossua@gmail.com
   
