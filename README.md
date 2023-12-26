@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋 Bienvenue sur mon Github </h1>  
-<h4 align="center">Toujours en quête d'apprentissage et de connaissances, je débuté la programmation en autodidacte, actuellement en formation Concepteur Developpeur d'Application</h4>  
+<h4 align="center">Toujours en quête d'apprentissage et de connaissances, j'ai débuté la programmation en autodidacte, actuellement en formation Concepteur Developpeur d'Application</h4>  
 
 
 
