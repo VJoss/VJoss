@@ -13,7 +13,7 @@
 
 - 🧠 J'ai par nature une sensibilité artistique, l'aspet visuel des différents site internet, a crée pour moi un réel interet de curiosité envers le développement.
 
-- 🌱 J'apprend actuellement le JavaScript natif/PHP natif et MySQL
+- 🌱 J'apprend actuellement le JavaScript natif/PHP natif/ React/ NodeJS et MySQL
 
 -  📧 Adresse mail : verdelet.jossua@gmail.com
   
