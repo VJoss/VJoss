@@ -15,7 +15,7 @@
 
 - 🌱 J'apprend actuellement le JavaScript natif/PHP natif/ React/ NodeJS/ Vue et MySQL
 
--  📧 Adresse mail : verdelet.jossua@gmail.com
+-  📧 Adresse mail : verdelet.jossua@proton.me
   
 
 
